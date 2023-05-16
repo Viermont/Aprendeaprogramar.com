@@ -26,7 +26,6 @@ int main()
 	{
 		printf("A\n");
 		if (i == num) break;
-
 	}
 	return 0;
 }
