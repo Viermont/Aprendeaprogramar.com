@@ -1,0 +1,4 @@
+Este programa sirve para
+escribir frases dentro de un fichero
+hasta que escribamos la palabra "fin"
+para finalizar el programa.
