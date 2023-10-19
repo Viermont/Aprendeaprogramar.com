@@ -1,0 +1,6 @@
+Este programa lee frases
+y las almacena en un archivo
+hasta que pulsemos Intro
+sin introducir ningun texto antes.
+Una vez finalizado muestra el texto
+almacenado en el archivo.
